@@ -54,7 +54,7 @@ module.exports = {
     const c = "NewarniDimpy";
     const e = "Female";
     const d = "m.me/61564362311773";
-    const f = "freez_a007";
+    const f = "luvley.dimpyy";
     const g = "Married With Newarr 😝💗";
  
  
