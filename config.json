@@ -12,22 +12,22 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "Sexy BOT69 🎀✨ ",
-  "prefix": "+",
+  "nickNameBot": "Suzume San 🎀✨ ",
+  "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
     "100093016749575",
-    "61558102884886"
+    "61557538632528"
   ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
       "61564362311773",
       "100093016749575",
-      "61558102884886"
+      "61557538632528"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
