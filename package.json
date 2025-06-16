@@ -53,8 +53,8 @@
   },
   "scripts": {
     "start": "node render-start.js",
-    "dev": "set NODE_ENV=development&& node index.js",
-    "prod": "set NODE_ENV=production&& node index.js"
+    "dev": "set NODE_ENV=development&& node render-start.js",
+    "prod": "set NODE_ENV=production&& node render-start.js"
   },
   "author": "NTKhang",
   "license": "MIT",
